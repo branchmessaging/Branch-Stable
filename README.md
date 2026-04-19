@@ -1,11 +1,10 @@
 # Branch
 **The next evolution in lightweight, real-time communication.**
 
-[![Python 3.13+](https://img.shields.io/python)]
-[![Python 3.13+](https://shields.io)](https://python.org)
-[![Database: Firestore](https://shields.io)](https://google.com)
-[![License: Proprietary](https://shields.io)](LICENSE)
-[![Build: Stable](https://shields.io)](https://github.com)
+[![Python](https://shields.io)](https://python.org)
+[![Database](https://shields.io)](https://google.com)
+[![License](https://shields.io)](LICENSE)
+[![Build](https://shields.io)](https://github.com)
 
 ---
 
