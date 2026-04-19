@@ -1,6 +1,7 @@
 # Branch
 **The next evolution in lightweight, real-time communication.**
 
+[![Python 3.13+](https://img.shields.io/github/stars/branchmessaging/Branch-Stable?style=social)]
 [![Python 3.13+](https://shields.io)](https://python.org)
 [![Database: Firestore](https://shields.io)](https://google.com)
 [![License: Proprietary](https://shields.io)](LICENSE)
